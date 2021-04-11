@@ -10,6 +10,7 @@ Requred tools and Settings
   - Now update the script with your data, make sure you give the excute permission for the script (`chmod +x VPN.sh`)
   - Run the script using terminal `sh VPN.sh`
   - Add this to your path and you will be able to run `VPN.sh` from anywhere.
+  - You can remove `.sh` extension too, and give a diffrent name. `mv VPN.sh vpn-connect` and if the file is on your `PATH` then you can just type `vpn-connect` in the terminal :). 
 
 # How this script works
 
