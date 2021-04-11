@@ -9,7 +9,7 @@ Requred tools and Settings
       - Use homebrew (https://formulae.brew.sh/formula/oath-toolkit), `brew install oath-toolkit`
   - Now update the script with your data, make sure you give the excute permission for the script (`chmod +x VPN.sh`)
   - Run the script using terminal `sh VPN.sh`
-  - Add this to your path and you will be able to run VPN.sh from anywhere.
+  - Add this to your path and you will be able to run `VPN.sh` from anywhere.
 
 # How this script works
 
